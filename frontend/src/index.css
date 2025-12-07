@@ -24,11 +24,13 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  display: block; /* remove flex centering */
+  background-color: #242424; /* keep your dark theme */
+  color: rgba(255, 255, 255, 0.87);
 }
+
 
 h1 {
   font-size: 3.2em;
