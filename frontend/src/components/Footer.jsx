@@ -28,7 +28,7 @@ export const Footer = () => {
         <div className="footer-section contact">
           <h3>Contact Us</h3>
           <p>Email: support@cancerfight.org</p>
-          <p>Phone: +1 234 567 890</p>
+          <p>Phone: +91 99999 99999</p>
           <div className="social-icons">
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
               <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" />
